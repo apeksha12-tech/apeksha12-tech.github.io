@@ -1,5 +1,5 @@
 // =========================================================
-// APEKSHA K M — PORTFOLIO JAVASCRIPT
+// APEKSHA K Marigoudar — PORTFOLIO JAVASCRIPT
 // =========================================================
 
 
